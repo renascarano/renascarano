@@ -1,2 +1,2 @@
  # mi repositorio
- hola soy renato scarano tengo 17 años y asd
+ Hola soy Renato Scarano tengo 17 años, me gusta estudiar y escuchar música.
